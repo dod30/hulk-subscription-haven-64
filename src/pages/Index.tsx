@@ -3,7 +3,7 @@ import { SubscriptionCard } from "@/components/SubscriptionCard";
 import { SocialLinks } from "@/components/SocialLinks";
 import { CheckCircle2 } from "lucide-react";
 
-const WHATSAPP_LINK = "https://wa.me/message/P5CBUNEVIOTCC1";
+const WHATSAPP_LINK = "https://api.whatsapp.com/send/?phone=%2B17027602707&text=%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%20%D9%87%D9%88%D9%84%D9%83";
 
 const subscriptions = [
   {
